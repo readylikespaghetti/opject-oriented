@@ -1,4 +1,4 @@
-//Peter Servatius
+//readylikespaghetti
 //Lab 1(B), 02/02/18
 //Colaborated with no one, used Processing.org, the book, and the lab handout for suggestions. 
 
